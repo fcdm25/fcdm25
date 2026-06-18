@@ -1,4 +1,4 @@
-I design and run identity and access management at enterprise scale — the control plane that decides **who, and what, is allowed to act inside a regulated payments business**.
+I design and run identity and access management at enterprise scale — the control plane that decides who, and what, is allowed to act inside a regulated payments business.
 
 Most of my work sits where authentication, authorization, and lifecycle governance meet the day-to-day running of the platform: standards-based federation that holds during an incident, least-privilege that doesn't quietly decay into standing access, and threat response the org can absorb without stalling. I've spent fifteen-plus years on it, across fintech, healthcare, public sector, and retail, in Europe and the Middle East. The recurring lesson: the hard part of IAM isn't the protocol. It's making the secure path the default one.
 
